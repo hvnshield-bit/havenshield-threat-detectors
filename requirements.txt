@@ -1,0 +1,4 @@
+rich
+psutil
+pytest
+flake8
